@@ -50,29 +50,6 @@ README.md          # Task documentation
 
 ---
 
-## 💻 Code Implementation
-
-```python id="1ybtsr"
-import pandas as pd
-
-# Load dataset
-df = pd.read_csv("student_data.csv")
-
-# Display data
-print(df.head())
-
-# Dataset information
-print(df.info())
-
-# Summary statistics
-print(df.describe())
-
-# Check missing values
-print(df.isnull().sum())
-```
-
----
-
 ## 📊 Sample Output
 
 **First 5 Rows:**
