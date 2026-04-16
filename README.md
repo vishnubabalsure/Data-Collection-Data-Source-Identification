@@ -43,9 +43,10 @@ This data is structured and suitable for basic data analysis.
 ## 📁 Files Included
 
 ```id="zx7n2m"
-student_data.csv   # Raw dataset
-analysis.py        # Python code
-README.md          # Task documentation
+dataset.csv   # Raw dataset
+student.py        # Python code
+README.md
+Task-1-documentation.pdf       
 ```
 
 ---
